@@ -13,6 +13,6 @@ above-mentioned algorithm.
 ● Create visualization using Matplotlib library, of the confusion matrix for each of the 5
 classifiers (including the ensemble).
 
-## random forest not implemented from scratch
-## KNN needs to normalize data column wise which we missed here 
+## random forest not implemented 
+## KNN ( normalize data column wise which we missed here )
 ## use of matplot lib is very minimum
